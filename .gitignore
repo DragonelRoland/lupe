@@ -1,0 +1,33 @@
+node_modules/
+.next/
+.turbo/
+.vercel/
+dist/
+build/
+out/
+coverage/
+
+# OS / IDE junk
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env
+.env*
+!.env.example
+.vercel
+
+# context
+context/
+
+# Project-specific files
+app/biotech/
+/public/images/
